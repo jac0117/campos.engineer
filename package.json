@@ -1,0 +1,25 @@
+{
+  "name": "campos.engineer",
+  "version": "1.0.0",
+  "description": "React.js site for http://campos.engineer",
+  "main": "App.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jac0117/campos.engineer.git"
+  },
+  "author": "Antonio Campos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jac0117/campos.engineer/issues"
+  },
+  "homepage": "https://github.com/jac0117/campos.engineer#readme",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-concat": "^2.6.0",
+    "gulp-html-replace": "^1.5.5",
+    "gulp-react": "^3.1.0"
+  }
+}

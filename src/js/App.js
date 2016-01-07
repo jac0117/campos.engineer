@@ -1,0 +1,1 @@
+React.render(<TestComponent />, document.getElementById('app'));
