@@ -1,1 +1,1 @@
-React.render(<TestComponent />, document.getElementById('app'));
+React.render(<MainPage />, document.getElementById('app'));
