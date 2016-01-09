@@ -2,7 +2,6 @@ var NavMenu = React.createClass({
     render: function(){
         return (
             <div className="nav-icon">
-                nav stuff here
                 <nav>
                     <div className="nav-wrapper">
                         <ul id="nav-mobile" className="side-nav">
@@ -11,7 +10,7 @@ var NavMenu = React.createClass({
                             <li><a href="cover-latter.html">Cover Latter</a></li>
                             <li><a href="contact.html">Contact</a></li>
                         </ul>
-                        <a href="#" data-activates="nav-mobile" className="button-collapse"><i class="mdi-navigation-menu"></i></a>
+                        <a href="#" data-activates="nav-mobile" className="button-collapse"><i className="mdi-navigation-menu"></i></a>
                     </div>
                 </nav>
             </div>
